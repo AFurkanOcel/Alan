@@ -73,6 +73,9 @@ In the game, players are placed on a **6x6 white grid**. Every **5 seconds**, on
 
 ## 🖼️ Images
 
+<img width="1920" height="856" alt="alan" src="https://github.com/user-attachments/assets/12726f7a-7812-479f-9739-3f4fc7b6a30a" />
+
+
 ---
 
 ### **Audio**
