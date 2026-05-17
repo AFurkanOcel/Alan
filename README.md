@@ -53,38 +53,36 @@ Both versions share the same core gameplay idea, board layout, scoring rules, an
 ```text
 Alan/
 |-- Alan(PC)/
-|   |-- Game Files/
-|   |   |-- Assets/
-|   |   |   |-- Scenes/
-|   |   |   |   |-- menu.unity
-|   |   |   |   `-- game.unity
-|   |   |   |-- scripts/
-|   |   |   |   |-- playermove.cs
-|   |   |   |   |-- player2move.cs
-|   |   |   |   |-- plane.cs
-|   |   |   |   `-- buttoncode.cs
-|   |   |   |-- images/
-|   |   |   |-- materials/
-|   |   |   `-- musics/
-|   |   |-- Packages/
-|   |   `-- ProjectSettings/
+|   |-- Assets/
+|   |   |-- Scenes/
+|   |   |   |-- menu.unity
+|   |   |   `-- game.unity
+|   |   |-- scripts/
+|   |   |   |-- playermove.cs
+|   |   |   |-- player2move.cs
+|   |   |   |-- plane.cs
+|   |   |   `-- buttoncode.cs
+|   |   |-- images/
+|   |   |-- materials/
+|   |   `-- musics/
+|   |-- Packages/
+|   `-- ProjectSettings/
 |
 |-- Alan(Android)/
-|   |-- Game Files/
-|   |   |-- Assets/
-|   |   |   |-- Scenes/
-|   |   |   |   |-- menu.unity
-|   |   |   |   `-- game.unity
-|   |   |   |-- scripts/
-|   |   |   |   |-- playermove.cs
-|   |   |   |   |-- player2move.cs
-|   |   |   |   |-- plane.cs
-|   |   |   |   `-- buttoncode.cs
-|   |   |   |-- images/
-|   |   |   |-- materials/
-|   |   |   `-- musics/
-|   |   |-- Packages/
-|   |   `-- ProjectSettings/
+|   |-- Assets/
+|   |   |-- Scenes/
+|   |   |   |-- menu.unity
+|   |   |   `-- game.unity
+|   |   |-- scripts/
+|   |   |   |-- playermove.cs
+|   |   |   |-- player2move.cs
+|   |   |   |-- plane.cs
+|   |   |   `-- buttoncode.cs
+|   |   |-- images/
+|   |   |-- materials/
+|   |   `-- musics/
+|   |-- Packages/
+|   `-- ProjectSettings/
 |
 |-- LICENSE
 |-- README.md
@@ -224,8 +222,8 @@ git clone https://github.com/AFurkanOcel/Alan.git
 2. Open one of the Unity project folders with Unity Hub:
 
 ```text
-Alan(PC)/Game Files
-Alan(Android)/Game Files
+Alan(PC)
+Alan(Android)
 ```
 
 3. Use **Unity 2022.3.7f1** or a compatible Unity 2022.3 LTS version.

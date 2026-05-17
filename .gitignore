@@ -26,6 +26,7 @@ Alan(Android)/Game/
 *.mdb
 *.opendb
 *.VC.db
+.vsconfig
 
 # Unity crash reports and profiler data
 sysinfo.txt
