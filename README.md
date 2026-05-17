@@ -248,7 +248,7 @@ Compiled PC and Android builds are not stored in the source repository. Release 
 
 ### Game Development
 
-**A. Furkan Ocel**
+**A. Furkan ÖCEL**
 
 GitHub: https://github.com/AFurkanOcel
 
