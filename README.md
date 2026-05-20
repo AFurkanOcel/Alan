@@ -33,7 +33,7 @@ The rules are simple:
 
 The player with the higher score wins. If both players capture the same number of tiles, the match ends in a draw.
 
-<img width="1920" height="856" alt="alan" src="https://github.com/user-attachments/assets/12726f7a-7812-479f-9739-3f4fc7b6a30a" />
+<img width="1920" height="856" alt="alan" src="assets/screenshots/alan.png" />
 
 ---
 
@@ -52,6 +52,10 @@ Both versions share the same core gameplay idea, board layout, scoring rules, an
 
 ```text
 Alan/
+|-- assets/
+|   `-- screenshots/
+|       `-- alan.png
+|
 |-- Alan(PC)/
 |   |-- Assets/
 |   |   |-- Scenes/
