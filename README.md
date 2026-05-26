@@ -54,7 +54,6 @@ Both versions share the same core gameplay idea, board layout, scoring rules, an
 Alan/
 |-- assets/
 |   `-- screenshots/
-|       `-- alan.png
 |
 |-- Alan(PC)/
 |   |-- Assets/
