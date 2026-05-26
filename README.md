@@ -54,7 +54,6 @@ Both versions share the same core gameplay idea, board layout, scoring rules, an
 Alan/
 |-- assets/
 |   `-- screenshots/
-|
 |-- Alan(PC)/
 |   |-- Assets/
 |   |   |-- Scenes/
@@ -70,7 +69,6 @@ Alan/
 |   |   `-- musics/
 |   |-- Packages/
 |   `-- ProjectSettings/
-|
 |-- Alan(Android)/
 |   |-- Assets/
 |   |   |-- Scenes/
@@ -86,7 +84,6 @@ Alan/
 |   |   `-- musics/
 |   |-- Packages/
 |   `-- ProjectSettings/
-|
 |-- LICENSE
 |-- README.md
 `-- .gitignore
